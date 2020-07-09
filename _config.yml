@@ -15,9 +15,9 @@ environment: staging
 
 remote_data_prefix: "https://sdg-sierra-leone.github.io/sierra-leone-site"
 # URL for the "Edit Data" button on indicators.
-data_edit_url: http://prose.io/#sdg-sierra-leone/sierra-leone-site/edit/develop/data/indicator_[id].csv
+data_edit_url: http://prose.io/#sdg-sierra-leone/sierra-leone-data/edit/develop/data/indicator_[id].csv
 # URL for the "Edit Metadata" button on indicators.
-metadata_edit_url: http://prose.io/#sdg-sierra-leone/sierra-leone-site/edit/develop/meta/[id].md
+metadata_edit_url: http://prose.io/#sdg-sierra-leone/sierra-leone-data/edit/develop/meta/[id].md
 
 # Automatically create indicator pages, goal pages,
 # and some other required pages.
