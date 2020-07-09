@@ -13,7 +13,7 @@ url: ""
 data_dir: data
 environment: staging
 
-remote_data_prefix: "https://sdg-sierra-leone.github.io/sierra-leone-site"
+remote_data_prefix: "https://sdg-sierra-leone.github.io/sierra-leone-data"
 # URL for the "Edit Data" button on indicators.
 data_edit_url: http://prose.io/#sdg-sierra-leone/sierra-leone-data/edit/develop/data/indicator_[id].csv
 # URL for the "Edit Metadata" button on indicators.
