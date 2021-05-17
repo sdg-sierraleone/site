@@ -8,16 +8,16 @@ remote_theme: open-sdg/open-sdg@master
 
 # Replace this title as needed.
 title: Indicators For The Sustainable Development Goals
-baseurl: "/sierra-leone-site"
+baseurl: "/site"
 url: ""
 data_dir: data
 environment: staging
 
-remote_data_prefix: "https://sdg-sierra-leone.github.io/sierra-leone-data"
+remote_data_prefix: "https://sdg-sierraleone.github.io/data"
 # URL for the "Edit Data" button on indicators.
-data_edit_url: http://prose.io/#sdg-sierra-leone/sierra-leone-data/edit/develop/data/indicator_[id].csv
+data_edit_url: http://prose.io/#sdg-sierraleone/data/edit/develop/data/indicator_[id].csv
 # URL for the "Edit Metadata" button on indicators.
-metadata_edit_url: http://prose.io/#sdg-sierra-leone/sierra-leone-data/edit/develop/meta/[id].md
+metadata_edit_url: http://prose.io/#sdg-sierraleone/data/edit/develop/meta/[id].md
 
 # Automatically create indicator pages, goal pages,
 # and some other required pages.
