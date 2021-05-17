@@ -8,7 +8,7 @@ remote_theme: open-sdg/open-sdg@master
 
 # Replace this title as needed.
 title: Indicators For The Sustainable Development Goals
-baseurl: "/sierra-leone-site"
+baseurl: "/site"
 url: ""
 data_dir: data
 environment: staging
